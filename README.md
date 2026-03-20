@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tushar Nagpal</h1>
 <h3 align="center">🚀 3rd Year CSE Student | Full Stack Developer | DevOps Enthusiast | Competitive Programmer</h3>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=1800&pause=1000&center=true&vCenter=true&width=850&color=BC00FF&lines=🚀+Problem+Solver;💻+Full+Stack+Developer;⚡+Next.js+Specialist" />
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tusharnagpal-1&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
@@ -15,7 +19,7 @@
 
 - 🎓 3rd Year Computer Science Engineering Student  
 - 💻 Full Stack Developer → **Next.js | MERN Stack**  
-- ⚙️ DevOps → **Docker | Jenkins | Kubernetes | AWS | CI/CD | Linux**  
+- ⚙️ DevOps → **Docker | Kubernetes | AWS | CI/CD | Linux**  
 - 🧠 Strong in **Data Structures & Algorithms**  
 - 🏆 Competitive Programmer → CodeChef | LeetCode  
 - 🔭 Currently working on **DevOps + Scalable Full Stack Projects**  
@@ -60,7 +64,7 @@
 
 ### ⚙️ DevOps & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,linux,git" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git" />
 </p>
 
 ---
@@ -92,7 +96,7 @@
 
 - 🔹 DevOps Projects with Docker & Kubernetes  
 - 🔹 Full Stack Apps using Next.js  
-- 🔹 CI/CD Pipelines (GitHub Actions + Jenkins)  
+- 🔹 CI/CD Pipelines 
 - 🔹 DSA & Competitive Programming  
 
 ---
