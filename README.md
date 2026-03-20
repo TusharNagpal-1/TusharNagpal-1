@@ -2,9 +2,11 @@
 <h3 align="center">🚀 3rd Year CSE Student | Full Stack Developer | DevOps Enthusiast | Competitive Programmer</h3>
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=1800&pause=1000&center=true&vCenter=true&width=850&color=BC00FF&lines=🚀+Problem+Solver;💻+Full+Stack+Developer;⚡+Next.js+Specialist" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=1800&pause=1000&center=true&vCenter=true&width=850&color=00F7FF&lines=;💻+Full+Stack+Developer;⚡+Next.js+Specialist;🚀+Problem+Solver" />
+<br/><br/>
+<img src="https://cdn.dribbble.com/userupload/21955253/file/original-cbc2133f09318197a07643d9033a3f16.gif" width="600"/>
 
+</div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tusharnagpal-1&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
 </p>
