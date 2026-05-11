@@ -20,8 +20,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 3rd Year Computer Science Engineering Student  
-- 💻 Full Stack Developer → **Next.js | MERN Stack**  
-- ⚙️ DevOps → **Docker | Kubernetes | AWS | CI/CD | Linux**  
+- 💻 Full Stack Developer → **Next.js | MERN Stack**    
 - 🧠 Strong in **Data Structures & Algorithms**  
 - 🏆 Competitive Programmer → CodeChef | LeetCode  
 - 🔭 Currently working on **DevOps + Scalable Full Stack Projects**  
@@ -66,7 +65,7 @@
 
 ### ⚙️ DevOps & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git" />
+<img src="https://skillicons.dev/icons?i=docker,aws,git" />
 </p>
 
 ---
@@ -96,7 +95,7 @@
 
 ## 🎯 Current Focus
 
-- 🔹 DevOps Projects with Docker & Kubernetes  
+- 🔹 DevOps Projects with Docker   
 - 🔹 Full Stack Apps using Next.js  
 - 🔹 CI/CD Pipelines 
 - 🔹 DSA & Competitive Programming  
