@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Nagpal</h1>
-<h3 align="center">🚀 3rd Year CSE Student | Full Stack Developer | DevOps Enthusiast | Competitive Programmer</h3>
+<h3 align="center">🚀 Final Year CSE Student | Full Stack Developer | DevOps Enthusiast | Competitive Programmer</h3>
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=1800&pause=1000&center=true&vCenter=true&width=850&color=00F7FF&lines=;💻+Full+Stack+Developer;⚡+Next.js+Specialist;🚀+Problem+Solver" />
