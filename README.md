@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 3rd Year Computer Science Engineering Student  
+- 🎓 Final Year Computer Science Engineering Student  
 - 💻 Full Stack Developer → **Next.js | MERN Stack**    
 - 🧠 Strong in **Data Structures & Algorithms**  
 - 🏆 Competitive Programmer → CodeChef | LeetCode  
