@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Final Year CSE Student | Full Stack Developer | DevOps Enthusiast | Competitive Programmer</h3>
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=1800&pause=1000&center=true&vCenter=true&width=850&color=00F7FF&lines=;💻+Full+Stack+Developer;⚡+Next.js+Specialist;🚀+Problem+Solver" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=1800&pause=1000&center=true&vCenter=true&width=850&color=00F7FF&lines=;💻+Full+Stack+Developer;🚀+Problem+Solver" />
 <br/><br/>
 <img src="https://cdn.dribbble.com/userupload/21955253/file/original-cbc2133f09318197a07643d9033a3f16.gif" width="600"/>
 
@@ -20,7 +20,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Final Year Computer Science Engineering Student  
-- 💻 Full Stack Developer → **Next.js | MERN Stack**    
+- 💻 Full Stack Developer →**MERN Stack**    
 - 🧠 Strong in **Data Structures & Algorithms**  
 - 🏆 Competitive Programmer → CodeChef | LeetCode  
 - 🔭 Currently working on **DevOps + Scalable Full Stack Projects**  
@@ -50,7 +50,7 @@
 
 ### 🌐 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
 </p>
 
 ### 🧩 Backend
@@ -72,17 +72,13 @@
 
 ## 📊 GitHub Stats (Dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharnagpal-1&show_icons=true&theme=tokyonight" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharnagpal-1&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharnagpal-1&layout=compact&theme=tokyonight" />
-</p>
+
 
 ---
 
